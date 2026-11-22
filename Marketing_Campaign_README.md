@@ -8,6 +8,16 @@
 
 ![Marketing Campaign Effectiveness Tableau dashboard](dashboard/marketing_dashboard.png)
 
+### Project Background
+
+This project was completed as part of my **Business Analytics Capstone Project at Eagan Academy, Dubai**, under the guidance of my mentor.
+
+The project involved data cleaning, exploratory data analysis, database creation, and marketing campaign performance analysis using **MySQL, Python (Pandas), Excel, and Tableau**.
+
+**Project Type:** Business Analytics Capstone Project  
+**Institution:** Eagan Academy, Dubai  
+**Dataset:** Synthetic training data
+
 ## 1. Business problem
 
 A business is investing in multiple digital marketing campaigns across **Email, Search Engine, and Social Media**, but needs a consolidated view of how effectively this spending generates traffic, customer conversions, and revenue. Looking at impressions or clicks alone is not enough: management must be able to assess **return on investment (ROI), acquisition cost, conversion performance, and channel differences** before making budget decisions.
