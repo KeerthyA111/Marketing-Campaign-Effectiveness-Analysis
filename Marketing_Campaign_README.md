@@ -15,7 +15,8 @@ This project was completed as part of my **Business Analytics Capstone Project a
 The project involved data cleaning, exploratory data analysis, database creation, and marketing campaign performance analysis using **MySQL, Python (Pandas), Excel, and Tableau**.
 
 **Project Type:** Business Analytics Capstone Project  
-**Institution:** Eagan Academy, Dubai  
+**Institution:** Eagan Academy, Dubai
+**Mentor:** Mr. Sreejith Surendran
 **Dataset:** Synthetic training data
 
 ## 1. Business problem
